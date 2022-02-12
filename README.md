@@ -27,7 +27,7 @@ Lets Predict because we can.
 This project is divided into two part:
 1. Data analysis visulization and models :
     - Using cv2 to open and manipulate images in jupyter notebook.
-    - Visulization using :
+    - visualization  using :
       - Seaborn 
       - Matplotlib 
       - cv2
